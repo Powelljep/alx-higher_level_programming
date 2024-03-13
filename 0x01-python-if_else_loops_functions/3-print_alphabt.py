@@ -3,4 +3,4 @@ for letter in range(97, 123):
     if letter == 13 or letter == 101:
         continue
     else:
-        print('{:c}'.formart(letter), end='')
+        print('{:c}'.format(letter), end='')
