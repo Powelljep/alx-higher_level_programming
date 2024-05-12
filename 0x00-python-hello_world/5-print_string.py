@@ -1,5 +1,5 @@
 #!/usr/bin/python3
 str = "Holberton School"
-# YOUR CODE GOES HERE. PLEASE REMOVE THIS LINE
-print(f"{str * 3}")
+newstr = f"{str * 3}"
+print(newstr)
 print(f"{str[:10]}")
