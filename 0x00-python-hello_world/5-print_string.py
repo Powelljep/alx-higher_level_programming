@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-str = "Holberton School"
-newstr = f"{str * 3}"
-print(newstr)
-print(f"{str[:10]}")
+str1 = "Holberton"
+str2 = "School"
+str1 = f"{str1} {str2}"
+print(f"Welcome to {str1}!")
+print(f"{str1[:10]}"
