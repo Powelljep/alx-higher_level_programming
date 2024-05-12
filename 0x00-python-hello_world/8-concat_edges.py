@@ -4,4 +4,4 @@ str = "Python is an interpreted, interactive, object-oriented programming\
 # YOUR CODE GOES HERE. PLEASE REMOVE THIS LINE
 print(str[39:66],end=" ")
 print(str[-22:-18],end=" ")
-print(str[:6])
+print(str[:6],end="")
